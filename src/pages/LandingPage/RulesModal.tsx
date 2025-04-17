@@ -5,8 +5,8 @@ interface Props {
 export default function RulesModal( {setShowModal}:Props ){
    
     return(
-        <div className="fixed inset-0  w-full h-full">
-            <div className="absolute z-20 inset-0 flex flex-col items-center justify-center h-[400px] p-8 max-w-[400px] w-full gap-8 rounded-2xl top-[50%] left-[50%] translate-[-50%]  bg-[#ffffff] ">
+        <div className="fixed inset-0 z-20  w-full h-full">
+            <div className="absolute z-30 inset-0 flex flex-col items-center justify-center h-[400px] p-8 max-w-[400px] w-full gap-8 rounded-2xl top-[50%] left-[50%] translate-[-50%]  bg-[#ffffff] ">
                 <span className=" flex items-center justify-between w-full cursor-pointer">
                     <span className=" text-2xl font-bold text-[#3b4363]">RULES</span>
                      <img 
