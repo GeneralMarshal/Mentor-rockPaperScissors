@@ -1,0 +1,23 @@
+[
+    {
+        "name": "scissors",
+        "baseColor": "#81580c",
+        "fromColor": "ec9e0e",
+        "toColor": "#eca922",
+        "src": "images/icon-scissors.svg"
+    },
+    {
+        "name": "paper",
+        "baseColor": "#2941ba",
+        "fromColor": "5671f5",
+        "toColor": "#4865f4",
+        "src": "images/icon-paper.svg"
+    },
+    {
+        "name": "rock",
+        "baseColor": "##8c192e",
+        "fromColor": "#dc2e4e",
+        "toColor": "#dd405d" ,
+        "src": "images/icon-rock.svg"
+    }
+]

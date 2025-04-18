@@ -9,9 +9,7 @@ interface Props{
 export default function BubbleButton(props:Props){
     let {fromGradient, toGradient, baseGradient, icon, type} = props
     return(
-        <div className="relative w-full h-full cursor-pointer" 
-            onClick={()=>{console.log( "you have selected " + (type))}}
-        >
+        <div className="relative w-full h-full cursor-pointer">
             <span 
                 className={`absolute w-full h-full rounded-[50%] translate-y-2 `}
                 style={{

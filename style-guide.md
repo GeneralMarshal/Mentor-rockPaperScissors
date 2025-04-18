@@ -29,7 +29,7 @@ The designs were created to the following widths:
 ### Neutral
 
 - Dark Text: hsl(229, 25%, 31%) [#3b4363]
-- Score Text: hsl(229, 64%, 46%) [	#2a46c0]
+- Score Text: hsl(229, 64%, 46%) [#2a46c0]
 - Header Outline: hsl(217, 16%, 45%) [#606e85]
 
 ### Background
